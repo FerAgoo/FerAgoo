@@ -8,9 +8,11 @@ Hoje construo uma API que centraliza os **processos de importação de painéis 
 [![STARS](https://custom-icon-badges.demolab.com/github/stars/FerAgoo?color=000000&label=STARS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/FerAgoo?tab=repositories&sort=stargazers)
 #### Projetos em destaque
 
-[![API-REST-IMPORTACOES](https://github-readme-stats.vercel.app/api/pin/?username=FerAgoo&repo=API-REST-IMPORTACOES&bg_color=000000&title_color=ffffff&text_color=dedede&icon_color=ffffff&hide_border=true&border_radius=5)](https://github.com/FerAgoo/API-REST-IMPORTACOES)
-[![SistemaTransito](https://github-readme-stats.vercel.app/api/pin/?username=FerAgoo&repo=SistemaTransito&bg_color=000000&title_color=ffffff&text_color=dedede&icon_color=ffffff&hide_border=true&border_radius=5)](https://github.com/FerAgoo/SistemaTransito)
-[![Recursividade](https://github-readme-stats.vercel.app/api/pin/?username=FerAgoo&repo=Recursividade&bg_color=000000&title_color=ffffff&text_color=dedede&icon_color=ffffff&hide_border=true&border_radius=5)](https://github.com/FerAgoo/Recursividade)
+<p>
+  <a href="https://github.com/FerAgoo/API-REST-IMPORTACOES"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=FerAgoo&repo=API-REST-IMPORTACOES&bg_color=000000&title_color=ffffff&text_color=dedede&icon_color=ffffff&hide_border=true&border_radius=5&description_lines_count=2" alt="API-REST-IMPORTACOES" /></a>
+  <a href="https://github.com/FerAgoo/SistemaTransito"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=FerAgoo&repo=SistemaTransito&bg_color=000000&title_color=ffffff&text_color=dedede&icon_color=ffffff&hide_border=true&border_radius=5&description_lines_count=2" alt="SistemaTransito" /></a>
+  <a href="https://github.com/FerAgoo/Recursividade"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=FerAgoo&repo=Recursividade&bg_color=000000&title_color=ffffff&text_color=dedede&icon_color=ffffff&hide_border=true&border_radius=5&description_lines_count=2" alt="Recursividade" /></a>
+</p>
 
 #### Tecnologias e ferramentas
 
@@ -29,6 +31,6 @@ Hoje construo uma API que centraliza os **processos de importação de painéis 
 
 #### Redes
 
-[![LINKEDIN](https://img.shields.io/badge/Matheus%20Agostinho-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfagostinho/)
+[![LINKEDIN](https://custom-icon-badges.demolab.com/badge/Matheus%20Agostinho-000000?style=flat&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/matheusfagostinho/)
 [![EMAIL](https://img.shields.io/badge/matheusfagostinho2%40gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:matheusfagostinho2@gmail.com)
 [![GITHUB](https://img.shields.io/badge/FerAgoo-000000?style=flat&logo=github&logoColor=white)](https://github.com/FerAgoo)
